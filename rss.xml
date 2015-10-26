@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Moderne Kommunikation]]></title>
         <description><![CDATA[Moderne Kommunikation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/huaba-net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 08:10:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 08:11:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/huaba-net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>kösadfjlkajdf öasdkfj aösdl fhasdölkfgj aög hnc-kg jfdakgado</p>]]></description>
-            <link>undefined795563f9-65ee-44b6-92d4-96cf84d4cc41/index.html</link>
+            <title><![CDATA[impler.de]]></title>
+            <description><![CDATA[<article><h1>impler.de</h1><p>beschreibung für die seite</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f7f8b7-4b1a-448b-be24-97edcd7fbefa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/huaba-net/795563f9-65ee-44b6-92d4-96cf84d4cc41/index.html</link>
             <guid isPermaLink="false">795563f9-65ee-44b6-92d4-96cf84d4cc41</guid>
-            <pubDate>Mon, 26 Oct 2015 08:09:55 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 08:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
