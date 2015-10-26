@@ -1,15 +1,24 @@
 ---
-title: Getting Started on The Grid
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
 description: Click the pencil icon in the bottom left to read more...
+datePublished: '2015-10-26T07:20:05.160Z'
+dateModified: '2015-10-26T07:19:58.328Z'
+title: Getting Started on The Grid
 author: []
-datePublished: '2015-10-26T07:18:47.354Z'
-dateModified: '2015-10-26T07:07:26.274Z'
 sourcePath: _posts/2015-10-26-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
@@ -53,7 +62,7 @@ Once you're in the post editor, you can start typing to add text, or click the "
 
 You can add handy post information by clicking the "i" icon in the upper right corner. By default, the first H1 Heading in your post will be the title that shows up here, and will also be what shows up on the post's cover in your site's home page. 
 
-You can choose from one of four post types...
+dgfhdfghdfghYou can choose from one of four post types...
 
 1. **Repost**: A post with an external link. Usually something you've shared via The Grid Chrome extension. Reposts will show up in the main feed/home page on your grid site, but will not link to a sub-page.
 2. **Blurb:** A "cover" post that does not have a link. Blurbs will only show up on the main feed/home page of your site and will not link out anywhere.
