@@ -1,0 +1,23 @@
+name: huaba.net
+favicon: null
+layout_spectrum: 0.689699896145612
+typography_spectrum: 0.48976172716356814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1665211282670498
+  lightness: 0.17449869448319077
+  saturation: 0.2577721558045596
+  rhythmicContrast: 0.8306056156288832
+purpose: []
